@@ -1,4 +1,4 @@
-Lo lo# Exemplo-Keylogger-Email
+# Exemplo-Keylogger-Email
 Uma amostra de keylogger, usando Python + a API Sendgrid. <br>
 
 Necessário <br>
